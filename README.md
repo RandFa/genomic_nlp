@@ -18,7 +18,7 @@ In this project, I extend the application of NLP to a higher level of representa
 * Re-annotate and analyze a large dataset of genomes and metagenomes.
 * Transform genetic data into a corpus by clustering genes into families.
 * Add a layer of abstraction by treating gene families as words in genomic sentences.
-* 
+  
 ### Model Building:
 * Word embedding with word2vec
 * Claasification based on embeddings
@@ -28,8 +28,10 @@ Validate the approach by demonstrating its ability to correctly identify recentl
 Assess the discovery potential of different functional categories.
 
 ## Repository Contents
-notebooks/: Jupyter notebooks containing the reworked analysis and code implementation, in addition to results.
-data/: functuons to scrape the data are available.
+analysis.ipynb notebook : Jupyter notebook containing the reworked analysis and code implementation, in addition to results.
+nlp_genomics.pdf: a presentation of the project, steps of the analysis, and the result.
+
+data: functuons to scrape the data are available.
 
 
 ## References
