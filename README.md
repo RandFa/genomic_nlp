@@ -18,6 +18,7 @@ In this project, I extend the application of NLP to a higher level of representa
 * Re-annotate and analyze a large dataset of genomes and metagenomes.
 * Transform genetic data into a corpus by clustering genes into families.
 * Add a layer of abstraction by treating gene families as words in genomic sentences.
+* Some of the tools I used are: Biopython for data compialtion, prodigal for gene prediction, BBAM and prokka for deduplication and annotation, mmseq2 and MAFFT for clustering, HMM for profile building and match search.
   
 ### Model Building:
 * Word embedding with word2vec
