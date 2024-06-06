@@ -22,7 +22,7 @@ In this project, I extend the application of NLP to a higher level of representa
   
 ### Model Building:
 * Word embedding with word2vec
-* Claasification based on embeddings
+* Classification based on embeddings using different models and compare performance (neural network, random forest, xgboost).
 
 ### Validation and Discovery:
 Validate the approach by demonstrating its ability to correctly identify recently discovered systems.
